@@ -1,11 +1,11 @@
-# HOMEPAGE
+# 🔥 HOMEPAGE
  <img src="home.JPG" />
  
-# SELECT COLOR FOR NOTE
+# 🔷 SELECT COLOR FOR NOTE
  <img src="selectColor.JPG" />
  
-# UPDATE SELECTED NOTE
+# 🔶 UPDATE SELECTED NOTE
  <img src="updateNotes.JPG" />
  
- # LIVE DEMO
+ # 🚀 LIVE DEMO
  https://notes-app-xord.herokuapp.com/
