@@ -1,0 +1,15 @@
+.NoteItem__container {
+  width: 300px;
+  border: solid 1px gray;
+  border-radius: 0.3em;
+  padding: 1em;
+  margin-bottom: 1em;
+  display: inline-block;
+  cursor: pointer;
+  background-color: '#fff';
+  overflow: hidden;
+}
+
+.NoteItem__container p{
+  overflow: hidden;
+}
