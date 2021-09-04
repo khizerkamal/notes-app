@@ -1,8 +1,8 @@
 # HOMEPAGE
- <img src="home.jpg" />
+ <img src="home.JPG" />
  
 # SELECT COLOR FOR NOTE
- <img src="selectColor.jpg" />
+ <img src="selectColor.JPG" />
  
 # UPDATE SELECTED NOTE
- <img src="updateNotes.jpg" />
+ <img src="updateNotes.JPG" />
